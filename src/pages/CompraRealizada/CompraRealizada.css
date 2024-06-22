@@ -1,0 +1,71 @@
+.compra-realizada-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  margin: 0 auto;
+}
+
+.RealPed, .CodPed {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px; /* Espaço entre os blocos */
+  width: 100%; /* Ocupa toda a largura do contêiner */
+  max-width: 600px; /* Ajuste conforme necessário */
+}
+
+.compra-realizada-title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.compra-realizada-txt {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.compra-realizada-btn {
+  background-color: #3498DB;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+}
+
+.compra-realizada-btn:hover {
+  background-color: #2980B9;
+}
+
+.pedido-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pedido-item {
+  margin-bottom: 20px;
+  width: 100%;
+  display: block;
+  /* text-align: center; */
+}
+
+.pedido-item-info {
+  margin-bottom: 10px;
+}
+
+.compra-realizada-pedidos {
+  width: 100%;
+}
+
+ul{
+  display: block;
+}

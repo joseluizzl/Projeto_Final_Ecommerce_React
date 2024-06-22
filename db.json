@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "8b15",
+      "nome": "Antonio",
+      "email": "antonio@email.com",
+      "senha": "123456"
+    }
+  ],
+  "produto": [
+    {
+      "id": "1",
+      "imgUrl": "https://m.media-amazon.com/images/I/61XJEwvCL8L._AC_SX679_.jpg",
+      "nome": "Monitor Gamer",
+      "descricao": "Samsung T350 - Monitor Gamer, 24\", FHD, 75Hz, HDMI, VGA, Freesync, Preto",
+      "preco": 949,
+      "categoria": "eletronico",
+      "quantidade": 16,
+      "likes": 1
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://m.media-amazon.com/images/I/51T-6cdhyaL._AC_SX679_.jpg",
+      "nome": "Item novo",
+      "descricao": "Epson EcoTank L3250 - Multifuncional, Tanque de Tinta Colorida, Wi-Fi Direct, USB, Bivolt, Preto",
+      "preco": 1114.39,
+      "categoria": "eletronico",
+      "quantidade": 41,
+      "likes": 0
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://m.media-amazon.com/images/I/61WrR7z-pGL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "nome": "MOuse Dell",
+      "descricao": "Mouse, Preto",
+      "preco": 119.9,
+      "categoria": "eletronico",
+      "quantidade": 24,
+      "likes": 1
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://m.media-amazon.com/images/I/51T-6cdhyaL._AC_SX679_.jpg",
+      "nome": "Impressora barata",
+      "descricao": "Epson EcoTank L3250 - Multifuncional, Tanque de Tinta Colorida, Wi-Fi Direct, USB, Bivolt, Preto",
+      "preco": 229.9,
+      "categoria": "eletronico",
+      "quantidade": 41,
+      "likes": 1
+    },
+    {
+      "id": "5",
+      "imgUrl": "https://m.media-amazon.com/images/I/51DF-14iHzL._AC_SX679_.jpg",
+      "nome": "Controle sem fio",
+      "descricao": "PlayStation DualSense Controle sem fio – Midnight Black",
+      "preco": 469.9,
+      "categoria": "eletronico",
+      "quantidade": 46,
+      "likes": 0
+    },
+    {
+      "id": "6",
+      "imgUrl": "https://m.media-amazon.com/images/I/91PDPYo4jUL._AC_SY879_.jpg",
+      "nome": "Mochila DELL Gaming",
+      "descricao": "Mochila DELL Gaming, Preto, 460-BCZE, 15.6\" e 17.3\"",
+      "preco": 399,
+      "categoria": "mochila",
+      "quantidade": 48,
+      "likes": 0
+    },
+    {
+      "id": "7",
+      "imgUrl": "https://m.media-amazon.com/images/I/61Qtnk0JkKL._AC_SY879_.jpg",
+      "nome": "Mochila Dell EcoLoop",
+      "descricao": "Mochila Dell EcoLoop Essential 14-16\"",
+      "preco": 160.55,
+      "categoria": "mochila",
+      "quantidade": 39,
+      "likes": 0
+    },
+    {
+      "id": "8",
+      "imgUrl": "https://m.media-amazon.com/images/I/31dB2C4IpGL._AC_.jpg",
+      "nome": "Mochila Vopoo",
+      "descricao": "Mochila preta Impermeáve Masculina ou Feminina Executiva,Mochilas Para Notebook ate 15.6, reforçada e acolchoada",
+      "preco": 69.9,
+      "categoria": "mochila",
+      "quantidade": 50,
+      "likes": 0
+    },
+    {
+      "id": "9",
+      "imgUrl": "https://m.media-amazon.com/images/I/71NKbw+r8PL._AC_SL1200_.jpg",
+      "nome": "Mochila Targus",
+      "descricao": "Targus Mochila para laptop ate 15'6\"",
+      "preco": 391.72,
+      "categoria": "mochila",
+      "quantidade": 49,
+      "likes": 0
+    },
+    {
+      "id": "10",
+      "imgUrl": "https://m.media-amazon.com/images/I/41N4Sa4ZjtL._AC_SX679_.jpg",
+      "nome": "Mochila Bogdan",
+      "descricao": "Mochila Executiva Bogdan Notebook Antifurto USB Impermeável Faculdade Trabalho Viagem Unissex",
+      "preco": 252.9,
+      "categoria": "mochila",
+      "quantidade": 46,
+      "likes": 0
+    }
+  ],
+  "pedido": []
+}

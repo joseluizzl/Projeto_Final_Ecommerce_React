@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  /* font-family: Nunito, sans-serif; */
+  background: linear-gradient(to bottom, #FFC107, #FF69B4);
+  background-attachment: fixed;
+  flex-direction: column;
+  align-items: center;
+  min-height: 95vh;
+  margin: 0 auto; 
+  /* box-sizing: border-box; */
+  
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  margin: 20px 0;
+}
